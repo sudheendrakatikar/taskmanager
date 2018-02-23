@@ -32,5 +32,5 @@ If you wish to edit the backend scripts and don't want to restart the server aft
 
 ### Author
 Sudheendra Katikar
-[Facebook](https://www.facebook.com/sudheeeendra)<br>
-[Quora](https://www.quora.com/profile/Sudheendra-Katikar)
+- [Facebook](https://www.facebook.com/sudheeeendra)
+- [Quora](https://www.quora.com/profile/Sudheendra-Katikar)
