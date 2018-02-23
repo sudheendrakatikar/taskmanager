@@ -1,6 +1,15 @@
-# taskmanager
-Task manager and scheduler using MEAN stack.
-You need to have Node.js installed on your system to run this project.
-Execution steps:
-1) From the current project directory, run 'node app.js' on the terminal/Command Prompt.
-2) Open 'http://localhost:3000' on any browser.
+# Task Management System
+A simple task manager and scheduler
+### Prerequisites
+- Node.js
+#### Installing Node.js
+On Linux distributions:<br>`sudo apt-get install nodejs`<br>
+
+On Windows and macOS:<br>
+1. [Download Node.js](https://nodejs.org/en/download/)<br>
+2. Follow setup instructions
+
+*Installing Node.js will also install npm (Node Package Manager)*
+
+### Project Execution
+1. Clone the repository.
