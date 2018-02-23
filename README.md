@@ -10,7 +10,8 @@ On Linux distributions:<br><br>
 
 On Windows and macOS:<br>
 1. [Download Node.js](https://nodejs.org/en/download/)<br>
-2. Follow setup instructions<br>
+2. Follow setup instructions
+
 *Installing Node.js on Windows/macOS will also install npm (Node Package Manager)*
 
 ## Project Execution
