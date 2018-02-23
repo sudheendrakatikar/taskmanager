@@ -1,5 +1,5 @@
 # Task Management System
-A simple task manager and scheduler
+A simple task manager and scheduler.
 ## Prerequisites
 - Node.js
 - Working internet connection
