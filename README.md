@@ -22,7 +22,9 @@ On Windows and macOS:<br>
 
 #### Optional
 If you wish to edit the backend scripts and don't want to restart the server after every edit, install Node Monitor.<br><br>
-`npm install -g nodemon@latest`
+`npm install -g nodemon@latest`<br><br>
+To start the server-<br><br>
+`nodemon`
 
 ## Built With
 - [MongoDB](https://mongodb.com/) - free SandBox deployment on [mLab](https://mlab.com/)
