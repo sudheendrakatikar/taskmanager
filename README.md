@@ -17,7 +17,7 @@ On Windows and macOS:<br>
 ## Project Execution
 1. Clone the repository and download the ZIP file.
 2. Extract the files and navigate to the sub-folder **taskmanager-master**.
-3. From this folder run<br><br>
+3. From this directory, run-<br><br>
 `node app.js`<br><br>
 4. Open a browser and go to [localhost:3000](http://localhost:3000)
 
