@@ -19,7 +19,7 @@ On Windows and macOS:<br>
 2. Extract the files and navigate to the sub-folder **taskmanager-master**.
 3. From this directory, run-<br><br>
 `node app.js`<br><br>
-4. Open a browser and go to [localhost:3000](http://localhost:3000)
+4. Start a web browser and go to [localhost:3000](http://localhost:3000)
 
 ### Optional
 If you wish to edit the backend scripts and don't want to restart the server after every edit, install Node Monitor.<br><br>
