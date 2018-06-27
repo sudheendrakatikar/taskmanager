@@ -15,8 +15,8 @@ On Windows and macOS:<br>
 *Installing Node.js on Windows/macOS will also install npm (Node Package Manager)*
 
 ## Project Execution
-1. Clone the repository and download the ZIP file.
-2. Extract the files and navigate to the sub-folder **taskmanager-master**.
+1. Clone the repository/download the ZIP file.
+2. Navigate to the **taskmanager-master**.
 3. From this directory, run-<br><br>
 `node app.js`<br><br>
 4. Start a web browser and go to [localhost:3000](http://localhost:3000)
